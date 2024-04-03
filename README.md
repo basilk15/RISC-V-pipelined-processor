@@ -2,3 +2,4 @@ This is our computer architecture project repository. In this project we were as
 since there are always stalls and hazards, so for dealing with it we made a HDU to detect stalls in the program which was done in task 3.
 group members: basil khowaja, saif nazir and hania kashif.
 course: computer architecture (Fall23)
+most easiest project😉
