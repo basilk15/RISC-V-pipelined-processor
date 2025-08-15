@@ -2,6 +2,8 @@
 
 A complete implementation of a 5-stage pipelined RISC-V processor with hazard detection and bubble sort algorithm execution, developed as part of Computer Architecture coursework at Habib University.
 
+![Pipeline Architecture](pipeline.png)
+
 ## 🎯 Project Overview
 
 This project demonstrates the design and implementation of a fully functional RISC-V processor that progresses from a single-cycle implementation to a sophisticated pipelined architecture with hazard detection capabilities.
